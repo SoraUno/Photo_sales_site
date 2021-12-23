@@ -1,0 +1,1 @@
+document.write('<small>©︎2021 SoraUno</small>');
