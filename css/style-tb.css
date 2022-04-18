@@ -155,7 +155,7 @@ nav.globalMenuSp.active {
   background-position: center;
   background-size: cover;
   /* filter: brightness(65%); */
-  background-image: url(../images/pic/S__64610316.jpg);
+  background-image: url(../images/S__64610316.jpg);
 }
 .link3 {
   grid-row: 3/4;
@@ -163,7 +163,7 @@ nav.globalMenuSp.active {
   background-position: center;
   background-size: cover;
   /* filter: brightness(65%); */
-  background-image: url(../images/pic/S__386433036.jpg);
+  background-image: url(../images/S__386433036.jpg);
 }
 .link4 {
   grid-row: 4/5;
